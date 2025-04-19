@@ -11,8 +11,8 @@ In this repository you will fine all files to print you own case, and original F
 * Radxa Zero 3W
 * Radxa Zero 3W (with Antenna mounting)
 
-<img src="AqualinkD Cases.png?raw=true">
-<img src="Radxa Zero3 Antenna Case.png?raw=true">
+<img src="AqualinkD Cases 2.png?raw=true">
+<!--<img src="Radxa Zero3 Antenna Case.png?raw=true"> -->
 
 
 # License
