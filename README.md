@@ -11,9 +11,20 @@ In this repository you will fine all files to print you own case, and original F
 * Radxa Zero 3W
 * Radxa Zero 3W (with Antenna mounting)
 
-<img src="AqualinkD Cases 2.png?raw=true">
+<img src="AqualinkD Cases 2.jpg?raw=true">
+<img src="IMG_0541.jpg?raw=true">
+<img src="IMG_0540.jpg?raw=true">
 <!--<img src="Radxa Zero3 Antenna Case.png?raw=true"> -->
 
+Other Parts needed.
+* 4x M2.5*5+5mm Standoffs
+* 4x M2.5*11+5mm Standoffs
+  * or 4x M2.5*10+5mm Standoffs and 4x M2.5x1mm washers
+* 4x M2.5 Countersunk screws.
+
+If using Radxa Zero W then external Antenna is optional.
+* U.FL to SMA Female Pigtail
+* SMA Male antenna
 
 # License
 ## Non Commercial Project
