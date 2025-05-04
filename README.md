@@ -12,11 +12,14 @@ In this repository you will fine all files to print you own case, and original F
 * Radxa Zero 3W (with Antenna mounting)
 
 <img src="AqualinkD Cases 2.jpg?raw=true">
-<img src="Radxa Zero Case.jpg?raw=true" width="350">
-<img src="Pi Zero Case.jpg?raw=true" width="350">
 
-<img src="Radxa Zero Exploded.jpg?raw=true" width="350">
-<img src="Pi Zero Exploded.jpg?raw=true" width="350">
+<table width="100%" border="0" cellpadding="20px">
+ <tr><th width="50%">Radxa with Antenna</th><th wifth="50%">Pi Zero (All zero form factor)</img></th><tr>
+ <tr><td><img src="Radxa Zero Case.jpg?raw=true" width="350"></td><td><img src="Pi Zero Case.jpg?raw=true" width="350"></td></tr>
+<tr><td><img src="Radxa Zero Exploded.jpg?raw=true" width="350"></td><td><img src="Pi Zero Exploded.jpg?raw=true" width="350"></td></tr>
+</table>
+
+
 <!--
 <img src="IMG_0540.jpg?raw=true">'
 <img src="IMG_0541.jpg?raw=true">
