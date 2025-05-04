@@ -15,7 +15,7 @@ In this repository you will fine all files to print you own case, and original F
 
 <table width="100%" border="0" cellpadding="20px">
  <tr><th width="50%">Radxa with Antenna</th><th width="50%">Pi Zero (All zero form factor)</img></th><tr>
- <tr><td><img src="Radxa Zero Case.jpg?raw=true"></td><td><img src="Pi Zero Case.jpg?raw=true"></td></tr>
+ <tr><td><img src="Radxa Zero Case.jpg?raw=true"></td><td><img src="Pi Zero Case.jpg?raw=true" style="vertical-align: bottom;"></td></tr>
 <tr><td><img src="Radxa Zero Exploded.jpg?raw=true"></td><td><img src="Pi Zero Exploded.jpg?raw=true"></td></tr>
 </table>
 
