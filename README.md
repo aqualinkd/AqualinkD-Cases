@@ -28,10 +28,11 @@ In this repository you will fine all files to print you own case, and original F
 <!--<img src="Radxa Zero3 Antenna Case.png?raw=true"> -->
 
 Other Parts needed.
-* 4x M2.5*5+5mm Standoffs
+<!-- * 4x M2.5*5+5mm Standoffs -->
 * 4x M2.5*11+5mm Standoffs
   * or 4x M2.5*10+5mm Standoffs and 4x M2.5x1mm washers
 * 4x M2.5 Countersunk screws.
+* 4x M2.5 Heat-set inserts. (These are optional, depending on the case lid you print)
 
 If using Radxa Zero W then external Antenna is optional.
 * U.FL to SMA Female Pigtail
